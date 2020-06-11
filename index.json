@@ -1,0 +1,93 @@
+[
+  {
+    "id": "6e8984e8-0961-4045-ac85-4379ad92e114",
+    "image": "https://www.ecommercenews.be/wp-content/uploads/2017/02/coolblue.png",
+    "company": "Coolblue",
+    "discount": 5,
+    "coins": 10
+  },
+  {
+    "id": "4725a9d3-a848-463d-a281-84dcf027b526",
+    "image": "https://www.vandaagbestellenmorgenbezorgd.nl/wp-content/uploads/2017/01/bol-com-logo.png",
+    "company": "Bol.com",
+    "discount": 25,
+    "coins": 50
+  },
+  {
+    "id": "ea84e2bb-37a9-4658-bf62-0faa75baf1f6",
+    "image": "https://scontent.fbru2-1.fna.fbcdn.net/v/t1.0-9/43439956_2146956508656761_7748504632757846016_n.jpg?_nc_cat=100&_nc_sid=09cbfe&_nc_oc=AQlDFex_IlEd9IxTN3adfcQF7fBZJc5CwVBuKFrndiXfn8gYhD-6IpK6oEbilzbjeLE&_nc_ht=scontent.fbru2-1.fna&oh=62e26b9429b934e7b39262b1a7d03c5d&oe=5F06F124",
+    "company": "Brantano",
+    "discount": 15,
+    "coins": 55
+  },
+  {
+    "id": "669271bd-75a2-4615-8721-abb412888474",
+    "image": "https://www.earnieland.be/system/App/Models/Shop/logos/000/001/774/big/jbc_logo.jpg",
+    "company": "JBC",
+    "discount": 25,
+    "coins": 50
+  },
+  {
+    "id": "5a099208-16be-4720-981a-0fd9beafcefa",
+    "image": "https://cdn.pizzahut.be/be/nl/logo/primary-logo-on-white-rgb.png",
+    "company": "Pizza Hut",
+    "discount": 50,
+    "coins": 100
+  },
+  {
+    "id": "6e76672f-75d8-4dc8-9156-7b3ea1cb09fd",
+    "image": "https://cdn.onemorething.nl/uploads//2016/11/switch-be-16x9.png",
+    "company": "Switch",
+    "discount": 4,
+    "coins": 10
+  },
+  {
+    "id": "1ab9c215-4b77-43eb-a981-092bf3211ae0",
+    "image": "https://www.verbraucherwelten.de/wp-content/uploads/onlinediensts/Musicstore-Logo.png",
+    "company": "Music Store",
+    "discount": 6,
+    "coins": 10
+  },
+  {
+    "id": "dadc08c9-3554-4bf5-afb4-3c0ccfb77296",
+    "image": "https://leidsenhagevernieuwt.nl/winkelcentrum/wp-content/uploads/sites/3/2018/02/henm.jpg",
+    "company": "H&M",
+    "discount": 20,
+    "coins": 40
+  },
+  {
+    "id": "df11ebe6-0e6e-4dab-a4e6-91e98157b771",
+    "image": "https://images.gondola.be/old/2019-04/standaard-boekhandel_2.jpg?auto=format&fit=crop&h=420&ixlib=php-1.1.0&q=75&w=800&s=48267c54ecdaa180f91d9051c39accf9",
+    "company": "Standaard Boekhandel",
+    "discount": 70,
+    "coins": 140
+  },
+  {
+    "id": "d9c6689e-c85b-47d3-b277-59d39b2589ae",
+    "image": "https://simpler.nl/magazine/wp-content/uploads/2017/07/mediamarkt-logo-750x375@2x.jpg",
+    "company": "Mediamarkt",
+    "discount": 10,
+    "coins": 10
+  },
+  {
+    "id": "bf2bc600-c5cf-488f-82ff-066f4c1c72ee",
+    "image": "https://www.bimmo.be/wp-content/uploads/2017/06/logo-vandenborre.jpg",
+    "company": "Vandenborre",
+    "discount": 25,
+    "coins": 50
+  },
+  {
+    "id": "52717e00-cacd-4d3a-a4e7-1568810bb0c6",
+    "image": "https://www.deslegte.com/assets/deslegte-1.0.201/images/default/og-image.jpg",
+    "company": "De Slegte",
+    "discount": 25,
+    "coins": 50
+  },
+  {
+    "id": "cb0baa0c-7317-4723-bad1-ba3b8384d7d6",
+    "image": "https://www.singlesdayexpert.com/wp-content/uploads/2019/08/496-Fnac.png",
+    "company": "Fnac",
+    "discount": 8,
+    "coins": 10
+  }
+]
